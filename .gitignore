@@ -3,3 +3,5 @@
 */.project
 */.settings/org.eclipse.ldt.prefs
 */.buildpath
+*.t7
+*.zip

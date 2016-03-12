@@ -1,3 +1,6 @@
+-- test the glimpse senor using lena picture: 
+-- from: http://torch.ch/blog/2015/09/21/rmva.html
+
 require 'dpnn'
 require 'image'
 
